@@ -948,7 +948,25 @@
   },
   "jujutsucraft:update": {
     "criteria": {
-      "update_0": "2025-07-14 02:35:42 +0000"
+      "update_0": "2025-07-14 02:52:28 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sorcerer_grade_2": {
+    "criteria": {
+      "sorcerer_grade_2_0": "2025-07-14 02:52:20 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_kirara_hoshi": {
+    "criteria": {
+      "battle_kirara_hoshi_0": "2025-07-14 02:52:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-07-14 02:49:44 +0000"
     },
     "done": true
   },
