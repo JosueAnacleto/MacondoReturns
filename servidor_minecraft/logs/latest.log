@@ -58,3 +58,9 @@
 [14Jul2025 02:16:04.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum joined the game
 [14Jul2025 02:16:20.725] [Worker-Main-24/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [14Jul2025 02:18:45.178] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom--8 absolute]
+[14Jul2025 02:26:10.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
+[14Jul2025 02:26:10.259] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
+[14Jul2025 02:28:07.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has reached the goal [Hanger Rack]
+[14Jul2025 02:29:39.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
+[14Jul2025 02:29:39.937] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
+[14Jul2025 02:30:12.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Killed 176 entities]
