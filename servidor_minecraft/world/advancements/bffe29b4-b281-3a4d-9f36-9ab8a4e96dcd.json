@@ -948,7 +948,7 @@
   },
   "jujutsucraft:update": {
     "criteria": {
-      "update_0": "2025-07-14 02:52:28 +0000"
+      "update_0": "2025-07-14 02:55:32 +0000"
     },
     "done": true
   },
@@ -961,6 +961,12 @@
   "jujutsucraft:battle_kirara_hoshi": {
     "criteria": {
       "battle_kirara_hoshi_0": "2025-07-14 02:52:20 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_chojuro_zenin": {
+    "criteria": {
+      "battle_chojuro_zenin_0": "2025-07-14 02:54:11 +0000"
     },
     "done": true
   },
