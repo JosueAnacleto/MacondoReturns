@@ -1695,3 +1695,24 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Jul2025 01:32:30.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Jul2025 01:32:55.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has reached the goal [Inverse]
 [14Jul2025 01:34:44.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebi_cum moved too quickly! 10.066758183131299,0.0,-0.09258546228045361
+[14Jul2025 01:37:19.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
+[14Jul2025 01:37:19.829] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sebi_cum was created at position [x:269, y:88, z:414, dim:minecraft:overworld]
+[14Jul2025 01:37:19.834] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
+[14Jul2025 01:37:30.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 01:37:30.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 01:38:31.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
+[14Jul2025 01:38:31.130] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sebi_cum was created at position [x:298, y:79, z:418, dim:minecraft:overworld]
+[14Jul2025 01:38:31.133] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
+[14Jul2025 01:40:47.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
+[14Jul2025 01:40:47.677] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sebi_cum was created at position [x:360, y:64, z:414, dim:minecraft:overworld]
+[14Jul2025 01:40:47.681] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
+[14Jul2025 01:41:57.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has made the advancement [Fame -2-]
+[14Jul2025 01:42:24.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebi_cum moved too quickly! 4.649915086908891,-2.0,8.707112177153022
+[14Jul2025 01:42:30.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 01:42:30.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 01:43:24.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
+[14Jul2025 01:43:24.327] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sebi_cum was created at position [x:375, y:64, z:490, dim:minecraft:overworld]
+[14Jul2025 01:43:24.330] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
+[14Jul2025 01:43:48.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
+[14Jul2025 01:43:48.825] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sebi_cum was created at position [x:367, y:64, z:489, dim:minecraft:overworld]
+[14Jul2025 01:43:48.828] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved

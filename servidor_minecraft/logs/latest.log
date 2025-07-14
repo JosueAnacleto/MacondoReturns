@@ -132,3 +132,15 @@
 [14Jul2025 01:32:16.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum joined the game
 [14Jul2025 01:32:55.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has reached the goal [Inverse]
 [14Jul2025 01:34:44.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebi_cum moved too quickly! 10.066758183131299,0.0,-0.09258546228045361
+[14Jul2025 01:37:19.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
+[14Jul2025 01:37:19.834] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
+[14Jul2025 01:38:31.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
+[14Jul2025 01:38:31.133] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
+[14Jul2025 01:40:47.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
+[14Jul2025 01:40:47.681] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
+[14Jul2025 01:41:57.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has made the advancement [Fame -2-]
+[14Jul2025 01:42:24.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebi_cum moved too quickly! 4.649915086908891,-2.0,8.707112177153022
+[14Jul2025 01:43:24.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
+[14Jul2025 01:43:24.330] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
+[14Jul2025 01:43:48.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
+[14Jul2025 01:43:48.828] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
