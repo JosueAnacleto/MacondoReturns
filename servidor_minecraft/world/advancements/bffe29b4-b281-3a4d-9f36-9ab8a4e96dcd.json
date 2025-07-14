@@ -946,27 +946,15 @@
     },
     "done": true
   },
-  "jujutsucraft:update": {
+  "tombstone:adventure/easy_opening": {
     "criteria": {
-      "update_0": "2025-07-14 02:55:32 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:advancement_six_eyes": {
-    "criteria": {
-      "advancement_six_eyes_0": "2025-07-14 03:12:29 +0000"
+      "coded_trigger": "2025-07-14 02:49:44 +0000"
     },
     "done": true
   },
   "jujutsucraft:sorcerer_grade_2": {
     "criteria": {
       "sorcerer_grade_2_0": "2025-07-14 02:52:20 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:mastery_falling_blossom_emotion": {
-    "criteria": {
-      "mastery_falling_blossom_emotion_0": "2025-07-14 03:12:20 +0000"
     },
     "done": true
   },
@@ -988,15 +976,105 @@
     },
     "done": true
   },
+  "jujutsucraft:mastery_falling_blossom_emotion": {
+    "criteria": {
+      "mastery_falling_blossom_emotion_0": "2025-07-14 03:12:20 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:mastery_open_barrier_type_domain": {
     "criteria": {
       "mastery_open_barrier_type_domain_0": "2025-07-14 03:12:21 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/easy_opening": {
+  "jujutsucraft:advancement_six_eyes": {
     "criteria": {
-      "coded_trigger": "2025-07-14 02:49:44 +0000"
+      "advancement_six_eyes_0": "2025-07-14 03:12:29 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:update": {
+    "criteria": {
+      "update_0": "2025-07-14 03:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-14 03:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-07-14 03:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-14 03:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-07-14 03:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-14 03:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-14 03:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-14 03:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-14 03:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-07-14 03:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-07-14 03:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-07-14 03:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-14 03:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-07-14 03:16:14 +0000"
     },
     "done": true
   },
