@@ -1716,3 +1716,30 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Jul2025 01:43:48.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
 [14Jul2025 01:43:48.825] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sebi_cum was created at position [x:367, y:64, z:489, dim:minecraft:overworld]
 [14Jul2025 01:43:48.828] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
+[14Jul2025 01:47:30.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 01:47:30.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 01:47:55.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has made the advancement [Isn't It Iron Pick]
+[14Jul2025 01:48:06.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
+[14Jul2025 01:48:06.926] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sebi_cum was created at position [x:1183, y:78, z:262, dim:minecraft:overworld]
+[14Jul2025 01:48:06.929] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
+[14Jul2025 01:51:21.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
+[14Jul2025 01:51:21.877] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sebi_cum was created at position [x:1077, y:60, z:117, dim:minecraft:overworld]
+[14Jul2025 01:51:21.881] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
+[14Jul2025 01:51:42.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
+[14Jul2025 01:51:42.375] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sebi_cum was created at position [x:1077, y:48, z:119, dim:minecraft:overworld]
+[14Jul2025 01:51:42.379] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
+[14Jul2025 01:52:24.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
+[14Jul2025 01:52:24.779] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sebi_cum was created at position [x:1070, y:49, z:125, dim:minecraft:overworld]
+[14Jul2025 01:52:24.785] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
+[14Jul2025 01:52:31.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 01:52:31.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 01:52:47.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
+[14Jul2025 01:52:47.277] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sebi_cum was created at position [x:1065, y:49, z:120, dim:minecraft:overworld]
+[14Jul2025 01:52:47.281] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
+[14Jul2025 01:53:12.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
+[14Jul2025 01:53:12.027] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sebi_cum was created at position [x:1064, y:50, z:118, dim:minecraft:overworld]
+[14Jul2025 01:53:12.030] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
+[14Jul2025 01:53:25.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Killed 191 entities]
+[14Jul2025 01:54:50.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
+[14Jul2025 01:54:50.676] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sebi_cum was created at position [x:996, y:74, z:168, dim:minecraft:overworld]
+[14Jul2025 01:54:50.679] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
