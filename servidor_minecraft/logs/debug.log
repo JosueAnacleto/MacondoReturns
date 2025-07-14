@@ -1326,3 +1326,18 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [14Jul2025 03:04:42.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Diomio
 [14Jul2025 03:04:48.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Uste se hace pero tp
 [14Jul2025 03:05:17.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Queloco
+[14Jul2025 03:07:36.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Teleported Sebi_cum to Ako_lol]
+[14Jul2025 03:07:36.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 03:07:36.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 03:07:42.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ako_lol lost connection: Disconnected
+[14Jul2025 03:07:42.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ako_lol left the game
+[14Jul2025 03:11:52.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Set own game mode to Creative Mode]
+[14Jul2025 03:12:14.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Set own game mode to Survival Mode]
+[14Jul2025 03:12:20.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has reached the goal [Mastery Falling Blossom Emotion]
+[14Jul2025 03:12:21.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has completed the challenge [Open Barrier Type Domain]
+[14Jul2025 03:12:29.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has completed the challenge [Six Eyes]
+[14Jul2025 03:12:36.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jul2025 03:12:36.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jul2025 03:14:19.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
+[14Jul2025 03:14:19.044] [Server thread/DEBUG] [tombstone/]: A new grave of the player Sebi_cum was created at position [x:532, y:70, z:-210, dim:minecraft:overworld]
+[14Jul2025 03:14:19.049] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved

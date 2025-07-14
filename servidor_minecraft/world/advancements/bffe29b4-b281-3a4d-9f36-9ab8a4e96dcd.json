@@ -952,9 +952,21 @@
     },
     "done": true
   },
+  "jujutsucraft:advancement_six_eyes": {
+    "criteria": {
+      "advancement_six_eyes_0": "2025-07-14 03:12:29 +0000"
+    },
+    "done": true
+  },
   "jujutsucraft:sorcerer_grade_2": {
     "criteria": {
       "sorcerer_grade_2_0": "2025-07-14 02:52:20 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:mastery_falling_blossom_emotion": {
+    "criteria": {
+      "mastery_falling_blossom_emotion_0": "2025-07-14 03:12:20 +0000"
     },
     "done": true
   },
@@ -967,6 +979,18 @@
   "jujutsucraft:battle_chojuro_zenin": {
     "criteria": {
       "battle_chojuro_zenin_0": "2025-07-14 02:54:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-07-14 03:08:58 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:mastery_open_barrier_type_domain": {
+    "criteria": {
+      "mastery_open_barrier_type_domain_0": "2025-07-14 03:12:21 +0000"
     },
     "done": true
   },
