@@ -123,3 +123,12 @@
 [14Jul2025 01:20:07.028] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
 [14Jul2025 01:20:32.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has completed the challenge [Black Flash]
 [14Jul2025 01:20:32.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has reached the goal [Mastery Simple Domain]
+[14Jul2025 01:28:24.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has made the advancement [Grade 3 Sorcerer]
+[14Jul2025 01:29:11.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
+[14Jul2025 01:29:11.729] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
+[14Jul2025 01:30:21.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebi_cum lost connection: Timed out
+[14Jul2025 01:30:21.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum left the game
+[14Jul2025 01:32:16.528] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebi_cum[/127.106.69.226:36675] logged in with entity id 13304 at (309.16191319252584, 77.5, 412.0168654597667)
+[14Jul2025 01:32:16.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum joined the game
+[14Jul2025 01:32:55.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has reached the goal [Inverse]
+[14Jul2025 01:34:44.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebi_cum moved too quickly! 10.066758183131299,0.0,-0.09258546228045361

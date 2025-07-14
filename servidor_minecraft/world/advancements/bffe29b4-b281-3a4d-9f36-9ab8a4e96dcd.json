@@ -39,8 +39,10 @@
     "criteria": {
       "minecraft:wooded_badlands": "2025-07-14 01:04:59 +0000",
       "minecraft:river": "2025-07-14 01:06:21 +0000",
+      "minecraft:forest": "2025-07-14 01:24:21 +0000",
       "minecraft:desert": "2025-07-13 21:30:18 +0000",
       "minecraft:warm_ocean": "2025-07-14 01:07:30 +0000",
+      "minecraft:savanna": "2025-07-14 01:23:21 +0000",
       "minecraft:plains": "2025-07-14 01:22:21 +0000"
     },
     "done": false
@@ -102,12 +104,6 @@
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2025-07-14 01:03:03 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:update": {
-    "criteria": {
-      "update_0": "2025-07-14 01:20:08 +0000"
     },
     "done": true
   },
@@ -315,33 +311,9 @@
     },
     "done": true
   },
-  "jujutsucraft:mastery_simple_domain": {
+  "tombstone:adventure/enchant_grave_key": {
     "criteria": {
-      "mastery_simple_domain_0": "2025-07-14 01:20:32 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:battle_ogami": {
-    "criteria": {
-      "battle_ogami_0": "2025-07-14 01:13:07 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:sorcerer_grade_4": {
-    "criteria": {
-      "sorcerer_grade_4_0": "2025-07-14 01:18:40 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:battle_mimiko_nanako": {
-    "criteria": {
-      "battle_mimiko_nanako_0": "2025-07-14 01:13:31 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2025-07-14 01:14:07 +0000"
+      "has_upgraded_grave_key": "2025-07-14 01:11:58 +0000"
     },
     "done": true
   },
@@ -351,21 +323,9 @@
     },
     "done": true
   },
-  "jujutsucraft:black_flash": {
-    "criteria": {
-      "black_flash_0": "2025-07-14 01:20:32 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2025-07-14 01:12:09 +0000"
-    },
-    "done": true
-  },
-  "jujutsucraft:reverse_cursed_technique_2": {
-    "criteria": {
-      "reverse_cursed_technique_2_0": "2025-07-14 01:13:35 +0000"
     },
     "done": true
   },
@@ -375,9 +335,201 @@
     },
     "done": true
   },
-  "tombstone:adventure/enchant_grave_key": {
+  "jujutsucraft:battle_ogami": {
     "criteria": {
-      "has_upgraded_grave_key": "2025-07-14 01:11:58 +0000"
+      "battle_ogami_0": "2025-07-14 01:13:07 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_mimiko_nanako": {
+    "criteria": {
+      "battle_mimiko_nanako_0": "2025-07-14 01:13:31 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:reverse_cursed_technique_2": {
+    "criteria": {
+      "reverse_cursed_technique_2_0": "2025-07-14 01:13:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-07-14 01:14:07 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sorcerer_grade_4": {
+    "criteria": {
+      "sorcerer_grade_4_0": "2025-07-14 01:18:40 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:mastery_simple_domain": {
+    "criteria": {
+      "mastery_simple_domain_0": "2025-07-14 01:20:32 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:black_flash": {
+    "criteria": {
+      "black_flash_0": "2025-07-14 01:20:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-14 01:24:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-14 01:24:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-14 01:24:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-07-14 01:24:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-14 01:24:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-14 01:24:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-14 01:24:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-07-14 01:24:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-07-14 01:24:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-07-14 01:24:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-14 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-14 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-14 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-14 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-14 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-14 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-14 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-14 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-14 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-14 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-14 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-14 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-14 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-14 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sorcerer_grade_3": {
+    "criteria": {
+      "sorcerer_grade_3_0": "2025-07-14 01:28:24 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:update": {
+    "criteria": {
+      "update_0": "2025-07-14 01:32:16 +0000"
     },
     "done": true
   },
