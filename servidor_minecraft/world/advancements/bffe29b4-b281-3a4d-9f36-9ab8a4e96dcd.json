@@ -994,12 +994,6 @@
     },
     "done": true
   },
-  "jujutsucraft:update": {
-    "criteria": {
-      "update_0": "2025-07-14 03:20:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-07-14 03:15:35 +0000"
@@ -1075,6 +1069,78 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-14 03:16:14 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:anti_open_barrier_type_domain": {
+    "criteria": {
+      "anti_open_barrier_type_domain_0": "2025-07-14 03:26:46 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:update": {
+    "criteria": {
+      "update_0": "2025-07-14 03:41:29 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_kento_nanami": {
+    "criteria": {
+      "battle_kento_nanami_0": "2025-07-14 03:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-14 03:41:32 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_panda": {
+    "criteria": {
+      "battle_panda_0": "2025-07-14 03:37:49 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_high_speed": {
+    "criteria": {
+      "skill_high_speed_0": "2025-07-14 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-14 03:41:32 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_gojo": {
+    "criteria": {
+      "skill_gojo_0": "2025-07-14 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_mechamaru": {
+    "criteria": {
+      "battle_mechamaru_0": "2025-07-14 03:37:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-14 03:41:32 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:skill_cursed_technique_lapse_blue": {
+    "criteria": {
+      "skill_cursed_technique_lapse_blue_0": "2025-07-14 03:38:26 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:battle_maki_zenin": {
+    "criteria": {
+      "battle_maki_zenin_0": "2025-07-14 03:36:41 +0000"
     },
     "done": true
   },
