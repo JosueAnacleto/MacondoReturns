@@ -39,6 +39,7 @@
     "criteria": {
       "minecraft:wooded_badlands": "2025-07-14 01:04:59 +0000",
       "minecraft:beach": "2025-07-14 01:39:47 +0000",
+      "minecraft:mangrove_swamp": "2025-07-15 21:59:57 +0000",
       "minecraft:river": "2025-07-14 01:06:21 +0000",
       "minecraft:lukewarm_ocean": "2025-07-14 01:44:58 +0000",
       "minecraft:stony_shore": "2025-07-14 01:46:19 +0000",
@@ -1140,7 +1141,13 @@
   },
   "jujutsucraft:update": {
     "criteria": {
-      "update_0": "2025-07-15 21:45:33 +0000"
+      "update_0": "2025-07-15 21:53:01 +0000"
+    },
+    "done": true
+  },
+  "jujutsucraft:sorcerer_grade_1_semi": {
+    "criteria": {
+      "sorcerer_grade_1_semi_0": "2025-07-15 21:47:56 +0000"
     },
     "done": true
   },

@@ -62,3 +62,17 @@
 [15Jul2025 21:46:09.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum left the game
 [15Jul2025 21:46:32.845] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebi_cum[/127.106.69.226:59253] logged in with entity id 4412 at (595.0133473992518, 64.0, -9.101916321934596)
 [15Jul2025 21:46:32.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum joined the game
+[15Jul2025 21:47:56.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has made the advancement [Semi-Grade 1 Sorcerer]
+[15Jul2025 21:52:48.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebi_cum lost connection: Timed out
+[15Jul2025 21:52:48.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum left the game
+[15Jul2025 21:52:48.492] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Jul2025 21:53:01.092] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebi_cum[/127.106.69.226:41239] logged in with entity id 15170 at (523.6374637200823, 63.0, -69.14609515070612)
+[15Jul2025 21:53:01.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum joined the game
+[15Jul2025 21:56:39.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebi_cum moved too quickly! -3.289996101827228,0.0,-9.922184079480758
+[15Jul2025 21:56:47.366] [Worker-Main-28/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[15Jul2025 21:57:49.940] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [0 above bottom--8 absolute]
+[15Jul2025 22:04:19.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebi_cum moved too quickly! -9.999305385680827,-2.493168583642671,0.4008377983392961
+[15Jul2025 22:05:21.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
+[15Jul2025 22:05:21.896] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
+[15Jul2025 22:06:27.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
+[15Jul2025 22:06:27.503] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
