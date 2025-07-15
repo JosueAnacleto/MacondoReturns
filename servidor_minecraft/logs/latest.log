@@ -1,337 +1,64 @@
-[14Jul2025 02:47:10.137] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[14Jul2025 02:47:10.141] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[14Jul2025 02:47:11.399] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[14Jul2025 02:47:11.560] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MacondoReturns/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[14Jul2025 02:47:11.939] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MacondoReturns/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[14Jul2025 02:47:11.941] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MacondoReturns/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[14Jul2025 02:47:11.942] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MacondoReturns/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[14Jul2025 02:47:11.943] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MacondoReturns/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[14Jul2025 02:47:12.297] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
-[14Jul2025 02:47:14.321] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[14Jul2025 02:47:14.345] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[14Jul2025 02:47:21.730] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[14Jul2025 02:47:21.732] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[14Jul2025 02:47:23.517] [main/INFO] [journeymap/]: Initializing Packet Registries
-[14Jul2025 02:47:24.155] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[14Jul2025 02:47:24.373] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: AHEAD Current: 9.0.3 Target: null
-[14Jul2025 02:47:24.374] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[14Jul2025 02:47:24.638] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[14Jul2025 02:47:24.638] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[14Jul2025 02:47:24.720] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[14Jul2025 02:47:25.212] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14Jul2025 02:47:25.876] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MacondoReturns/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23115!/assets/.mcassetsroot' uses unexpected schema
-[14Jul2025 02:47:25.876] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MacondoReturns/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23115!/data/.mcassetsroot' uses unexpected schema
-[14Jul2025 02:47:27.845] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[14Jul2025 02:47:27.962] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1634 advancements
-[14Jul2025 02:47:28.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[14Jul2025 02:47:28.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[14Jul2025 02:47:28.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[14Jul2025 02:47:28.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[14Jul2025 02:47:28.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[14Jul2025 02:47:28.798] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[14Jul2025 02:47:28.911] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14Jul2025 02:47:28.912] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[14Jul2025 02:47:28.912] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14Jul2025 02:47:28.912] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[14Jul2025 02:47:28.942] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[14Jul2025 02:47:28.945] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[14Jul2025 02:47:29.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[14Jul2025 02:47:32.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[14Jul2025 02:47:33.665] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Jul2025 02:47:33.684] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Jul2025 02:47:33.702] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Jul2025 02:47:33.716] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Jul2025 02:47:34.205] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Jul2025 02:47:34.792] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Jul2025 02:47:35.273] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Jul2025 02:47:35.738] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Jul2025 02:47:36.182] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 38%
-[14Jul2025 02:47:36.577] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 4395 ms
-[14Jul2025 02:47:36.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.647s)! For help, type "help"
-[14Jul2025 02:47:36.603] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[14Jul2025 02:48:07.606] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebi_cum[/127.106.69.226:49493] logged in with entity id 427 at (550.5, 72.0, -172.5)
-[14Jul2025 02:48:07.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum joined the game
-[14Jul2025 02:48:16.217] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ako_lol[/127.206.133.67:60595] logged in with entity id 547 at (556.5, 72.0, -177.5)
-[14Jul2025 02:48:16.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ako_lol joined the game
-[14Jul2025 02:48:24.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> dedoss
-[14Jul2025 02:48:24.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Set own game mode to Creative Mode]
-[14Jul2025 02:48:37.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Set own game mode to Survival Mode]
-[14Jul2025 02:48:46.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Comaselos
-[14Jul2025 02:48:57.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> ¿Ya?
-[14Jul2025 02:49:06.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> ¿Siente algo
-[14Jul2025 02:49:08.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> ¿Siente algo?
-[14Jul2025 02:49:09.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ako_lol has made the advancement [Monster Hunter]
-[14Jul2025 02:49:11.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
-[14Jul2025 02:49:11.586] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
-[14Jul2025 02:49:13.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> alv
-[14Jul2025 02:49:21.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> uys
-[14Jul2025 02:49:38.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Set own game mode to Creative Mode]
-[14Jul2025 02:49:44.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has reached the goal [Easy Opening]
-[14Jul2025 02:49:52.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Set own game mode to Survival Mode]
-[14Jul2025 02:49:57.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> omg
-[14Jul2025 02:50:00.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Come
-[14Jul2025 02:50:18.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> En efecto
-[14Jul2025 02:50:24.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Ya debe servir esta verga
-[14Jul2025 02:50:34.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> qwq
-[14Jul2025 02:50:42.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Diosmio
-[14Jul2025 02:51:08.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> alv
-[14Jul2025 02:51:14.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> SOY DIOS
-[14Jul2025 02:51:50.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Summoned new Mahito]
-[14Jul2025 02:52:05.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ako_lol moved wrongly!
-[14Jul2025 02:52:07.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
-[14Jul2025 02:52:07.215] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
-[14Jul2025 02:52:15.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Pa saber
-[14Jul2025 02:52:20.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has made the advancement [Southern Cross]
-[14Jul2025 02:52:20.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has made the advancement [Grade 2 Sorcerer]
-[14Jul2025 02:52:20.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> ALV
-[14Jul2025 02:52:25.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
-[14Jul2025 02:52:25.905] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
-[14Jul2025 02:52:44.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> AAAAAAAAA
-[14Jul2025 02:52:46.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> EJE
-[14Jul2025 02:52:48.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> ME VIOKAN
-[14Jul2025 02:53:14.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Ah bueno se la pela
-[14Jul2025 02:53:26.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ako_lol has reached the goal [Reverse Cursed Technique Lv2]
-[14Jul2025 02:53:30.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Set own game mode to Creative Mode]
-[14Jul2025 02:53:55.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> ese bicho ta duro
-[14Jul2025 02:54:04.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> uys
-[14Jul2025 02:54:06.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Set own game mode to Survival Mode]
-[14Jul2025 02:54:11.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has reached the goal [You Rock!]
-[14Jul2025 02:54:23.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ako_lol has completed the challenge [Open Barrier Type Domain]
-[14Jul2025 02:54:26.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
-[14Jul2025 02:54:26.621] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
-[14Jul2025 02:54:38.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ako_lol has reached the goal [Mastery Simple Domain]
-[14Jul2025 02:55:17.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> mabien
-[14Jul2025 02:55:19.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Set own game mode to Creative Mode]
-[14Jul2025 02:55:24.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> esta re chistosa la skin :v
-[14Jul2025 02:55:25.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Set own game mode to Survival Mode]
-[14Jul2025 02:55:29.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Cual
-[14Jul2025 02:55:34.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> pues
-[14Jul2025 02:55:46.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> lo que se supone q es el traje
-[14Jul2025 02:55:53.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Chi
-[14Jul2025 02:55:59.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> soy un tamal y tu un coso morao
-[14Jul2025 02:56:07.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Ahora si
-[14Jul2025 02:56:10.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Venga pa aca
-[14Jul2025 02:56:26.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ako_lol was killed
-[14Jul2025 02:56:26.608] [Server thread/INFO] [tombstone/]: The player Ako_lol has successfully been saved
-[14Jul2025 02:56:30.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Jijijiji
-[14Jul2025 02:56:34.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> jaskdjasdk
-[14Jul2025 02:56:38.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> se rie*
-[14Jul2025 02:56:38.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> POR FIN ENTENDI COMO SIRVE
-[14Jul2025 02:56:47.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Teleported Ako_lol to Sebi_cum]
-[14Jul2025 02:57:02.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> me psas la ropita de skuna?
-[14Jul2025 02:57:05.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Chi
-[14Jul2025 02:57:10.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Set own game mode to Creative Mode]
-[14Jul2025 02:57:50.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Toma
-[14Jul2025 02:58:05.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Solo esta esa
-[14Jul2025 02:58:11.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ako_lol was killed
-[14Jul2025 02:58:11.857] [Server thread/INFO] [tombstone/]: The player Ako_lol has successfully been saved
-[14Jul2025 02:58:18.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> perdon
-[14Jul2025 02:58:21.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Teleported Ako_lol to Sebi_cum]
-[14Jul2025 02:58:55.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> POR FIN
-[14Jul2025 02:59:00.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> queque
-[14Jul2025 02:59:10.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Hechemos chisme
-[14Jul2025 02:59:14.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Que opinas del mod
-[14Jul2025 02:59:45.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ako_lol was killed
-[14Jul2025 02:59:45.498] [Server thread/INFO] [tombstone/]: The player Ako_lol has successfully been saved
-[14Jul2025 02:59:50.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> eche
-[14Jul2025 02:59:51.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Teleported Ako_lol to Sebi_cum]
-[14Jul2025 02:59:52.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> como muero
-[14Jul2025 02:59:58.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> La espada que tengo
-[14Jul2025 03:00:08.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Si una entiedad comio muchos dedos de sukuna
-[14Jul2025 03:00:09.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> muyduro
-[14Jul2025 03:00:16.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> El Juez ejecuta pena de muerte
-[14Jul2025 03:00:25.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Si te toco una vez automaticamente mueres
-[14Jul2025 03:00:35.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> q meo
-[14Jul2025 03:00:39.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Qu
-[14Jul2025 03:00:43.511] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
-[14Jul2025 03:01:11.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> eche
-[14Jul2025 03:01:16.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> me lo iba a funar
-[14Jul2025 03:01:41.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Mucha demora
-[14Jul2025 03:01:45.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> queque
-[14Jul2025 03:01:47.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> ehj
-[14Jul2025 03:02:04.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Set own game mode to Survival Mode]
-[14Jul2025 03:02:04.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebi_cum moved too quickly! 7.7306740393498785,0.7967356006687112,6.320859073202932
-[14Jul2025 03:02:21.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> pobre nobara
-[14Jul2025 03:02:31.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Y usted como vuela
-[14Jul2025 03:02:39.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> con espacio doble
-[14Jul2025 03:04:40.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Oli
-[14Jul2025 03:04:42.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Diomio
-[14Jul2025 03:04:48.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Uste se hace pero tp
-[14Jul2025 03:05:17.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Queloco
-[14Jul2025 03:07:36.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Teleported Sebi_cum to Ako_lol]
-[14Jul2025 03:07:42.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ako_lol lost connection: Disconnected
-[14Jul2025 03:07:42.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ako_lol left the game
-[14Jul2025 03:11:52.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Set own game mode to Creative Mode]
-[14Jul2025 03:12:14.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Set own game mode to Survival Mode]
-[14Jul2025 03:12:20.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has reached the goal [Mastery Falling Blossom Emotion]
-[14Jul2025 03:12:21.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has completed the challenge [Open Barrier Type Domain]
-[14Jul2025 03:12:29.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has completed the challenge [Six Eyes]
-[14Jul2025 03:14:19.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
-[14Jul2025 03:14:19.049] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
-[14Jul2025 03:17:52.307] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ako_lol[/127.206.133.67:51685] logged in with entity id 20481 at (323.5, 61.0, 76.5)
-[14Jul2025 03:17:52.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ako_lol joined the game
-[14Jul2025 03:18:02.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Hola
-[14Jul2025 03:18:09.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Teleported Ako_lol to Sebi_cum]
-[14Jul2025 03:18:13.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Antes de que me pegue
-[14Jul2025 03:18:24.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Toma
-[14Jul2025 03:18:28.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> tomo
-[14Jul2025 03:18:31.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Mire si algo de esto le sirve
-[14Jul2025 03:18:58.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> nosirve
-[14Jul2025 03:19:34.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> ¿No sirve
-[14Jul2025 03:19:39.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> nom
-[14Jul2025 03:19:58.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ako_lol was killed
-[14Jul2025 03:19:58.475] [Server thread/INFO] [tombstone/]: The player Ako_lol has successfully been saved
-[14Jul2025 03:20:02.897] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebi_cum lost connection: Disconnected
-[14Jul2025 03:20:02.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum left the game
-[14Jul2025 03:20:31.102] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebi_cum[/127.106.69.226:49795] logged in with entity id 21268 at (524.0921390109778, 70.0, -181.73324380432834)
-[14Jul2025 03:20:31.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum joined the game
-[14Jul2025 03:20:52.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ako_lol was kicked for floating too long!
-[14Jul2025 03:20:52.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ako_lol lost connection: Disconnected
-[14Jul2025 03:20:52.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ako_lol left the game
-[14Jul2025 03:20:52.893] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[14Jul2025 03:21:59.201] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ako_lol[/127.206.133.67:40619] logged in with entity id 21797 at (267.80112409808333, 66.30430353321744, 370.1306313712513)
-[14Jul2025 03:21:59.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ako_lol joined the game
-[14Jul2025 03:22:43.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Teleported Ako_lol to Sebi_cum]
-[14Jul2025 03:22:48.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Summoned new Warden]
-[14Jul2025 03:23:03.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ako_lol has reached the goal [Mastery Domain Amplification (WIP)]
-[14Jul2025 03:23:08.394] [Server thread/WARN] [tombstone/]: The death event of the player Sebi_cum was canceled by another mod
-[14Jul2025 03:23:08.396] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
-[14Jul2025 03:23:12.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
-[14Jul2025 03:23:12.200] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
-[14Jul2025 03:23:20.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> SE FOLLO MI DOMINIO
-[14Jul2025 03:23:53.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> eche
-[14Jul2025 03:24:02.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Summoned new Warden]
-[14Jul2025 03:24:03.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Summoned new Warden]
-[14Jul2025 03:24:04.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Summoned new Warden]
-[14Jul2025 03:24:04.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Summoned new Warden]
-[14Jul2025 03:24:08.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Summoned new Warden]
-[14Jul2025 03:24:12.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> ñam
-[14Jul2025 03:24:14.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> ave
-[14Jul2025 03:24:15.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
-[14Jul2025 03:24:15.949] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
-[14Jul2025 03:24:16.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> perate
-[14Jul2025 03:24:22.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Activa tu dominio
-[14Jul2025 03:24:50.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> sisis
-[14Jul2025 03:24:52.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Summoned new Ryomen Sukuna]
-[14Jul2025 03:24:53.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> ta caragando
-[14Jul2025 03:24:54.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
-[14Jul2025 03:24:55.001] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
-[14Jul2025 03:25:24.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ako_lol died
-[14Jul2025 03:25:24.211] [Server thread/INFO] [tombstone/]: The player Ako_lol has successfully been saved
-[14Jul2025 03:25:27.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> qwq
-[14Jul2025 03:25:28.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> ahs
-[14Jul2025 03:25:29.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
-[14Jul2025 03:25:29.612] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
-[14Jul2025 03:25:32.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> no alcance
-[14Jul2025 03:25:45.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> ME FOLLAAAAAAAAN
-[14Jul2025 03:25:52.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> HAZME TP
-[14Jul2025 03:26:03.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Teleported Ako_lol to Sebi_cum]
-[14Jul2025 03:26:13.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Amen
-[14Jul2025 03:26:46.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has completed the challenge [Anti-Open Barrier Type Domain]
-[14Jul2025 03:26:50.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Llamen a dios
-[14Jul2025 03:27:05.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> DONDE ESTAN MIS COSAS
-[14Jul2025 03:27:16.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ako_lol died
-[14Jul2025 03:27:19.906] [Server thread/INFO] [tombstone/]: The player Ako_lol has successfully been saved
-[14Jul2025 03:27:19.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3967ms or 79 ticks behind
-[14Jul2025 03:27:30.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Teleported Ako_lol to Sebi_cum]
-[14Jul2025 03:27:30.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> QWQ
-[14Jul2025 03:27:38.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
-[14Jul2025 03:27:38.884] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
-[14Jul2025 03:28:05.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Killed 2099 entities]
-[14Jul2025 03:28:13.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ako_lol was killed
-[14Jul2025 03:28:13.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Killed 97 entities]
-[14Jul2025 03:28:13.075] [Server thread/INFO] [tombstone/]: The player Ako_lol has successfully been saved
-[14Jul2025 03:28:15.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Ya
-[14Jul2025 03:28:18.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> QWQ
-[14Jul2025 03:28:24.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Teleported Ako_lol to Sebi_cum]
-[14Jul2025 03:28:29.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> En efecto
-[14Jul2025 03:28:33.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Nadie le gana a ese marica
-[14Jul2025 03:28:57.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebi_cum was kicked for floating too long!
-[14Jul2025 03:28:57.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebi_cum lost connection: Flying is not enabled on this server
-[14Jul2025 03:28:57.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum left the game
-[14Jul2025 03:29:24.997] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebi_cum[/127.106.69.226:35433] logged in with entity id 28941 at (519.404041512765, 64.9424277526289, -182.7261235166056)
-[14Jul2025 03:29:25.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum joined the game
-[14Jul2025 03:29:34.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Set own game mode to Creative Mode]
-[14Jul2025 03:29:45.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Teleported Sebi_cum to Ako_lol]
-[14Jul2025 03:29:46.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> yano hay bichos
-[14Jul2025 03:29:53.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Por la noche salen
-[14Jul2025 03:29:58.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Set own game mode to Survival Mode]
-[14Jul2025 03:30:02.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Set the time to 13000]
-[14Jul2025 03:30:23.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> No mames
-[14Jul2025 03:30:24.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> ahya
-[14Jul2025 03:30:32.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Si no te pego con la pena de muerte
-[14Jul2025 03:30:34.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> No te mato
-[14Jul2025 03:30:44.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Toma
-[14Jul2025 03:31:54.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> No mame
-[14Jul2025 03:31:57.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Pq se mete
-[14Jul2025 03:32:15.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
-[14Jul2025 03:32:16.002] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
-[14Jul2025 03:32:42.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
-[14Jul2025 03:32:42.750] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
-[14Jul2025 03:33:33.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> ¿Te sigue ese bicho?
-[14Jul2025 03:33:56.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Ay
-[14Jul2025 03:33:59.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Jueputa
-[14Jul2025 03:34:32.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> MI HIJO
-[14Jul2025 03:34:39.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Quien
-[14Jul2025 03:34:44.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Teleported Sebi_cum to Ako_lol]
-[14Jul2025 03:34:52.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Que verga
-[14Jul2025 03:34:54.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Dos angeles
-[14Jul2025 03:35:06.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Charlot
-[14Jul2025 03:35:10.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> queso
-[14Jul2025 03:35:15.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Verdad o reto
-[14Jul2025 03:35:21.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> verda
-[14Jul2025 03:35:27.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
-[14Jul2025 03:35:27.973] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
-[14Jul2025 03:35:49.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has reached the goal [Rogue Company]
-[14Jul2025 03:35:56.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> mihombre...
-[14Jul2025 03:36:22.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> ¿Es verdad que tu te aguantas esta?
-[14Jul2025 03:36:30.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> cual?
-[14Jul2025 03:36:41.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has made the advancement [Naoya]
-[14Jul2025 03:36:42.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ako_lol was killed
-[14Jul2025 03:36:42.423] [Server thread/INFO] [tombstone/]: The player Ako_lol has successfully been saved
-[14Jul2025 03:36:45.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Esta
-[14Jul2025 03:36:51.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Teleported Ako_lol to Sebi_cum]
-[14Jul2025 03:36:56.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Bueno ya no molesto mas
-[14Jul2025 03:36:58.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> :3
-[14Jul2025 03:37:21.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Entonces bichos del diablo
-[14Jul2025 03:37:27.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Aguantense esta
-[14Jul2025 03:37:41.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
-[14Jul2025 03:37:41.111] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
-[14Jul2025 03:37:49.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has made the advancement [Panda]
-[14Jul2025 03:37:52.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> wazaaaaaa
-[14Jul2025 03:37:54.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has reached the goal [Trojan Horse]
-[14Jul2025 03:38:05.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Set own game mode to Creative Mode]
-[14Jul2025 03:38:10.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> jiji
-[14Jul2025 03:38:19.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Set own game mode to Survival Mode]
-[14Jul2025 03:38:26.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has made the advancement [High Speed]
-[14Jul2025 03:38:26.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has made the advancement [Cursed Technique Lapse: Blue]
-[14Jul2025 03:38:26.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum has made the advancement [Limitless]
-[14Jul2025 03:38:39.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ako_lol has made the advancement [Isn't It Iron Pick]
-[14Jul2025 03:38:53.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum died
-[14Jul2025 03:38:53.557] [Server thread/INFO] [tombstone/]: The player Sebi_cum has successfully been saved
-[14Jul2025 03:39:37.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Teleported Sebi_cum to Ako_lol]
-[14Jul2025 03:40:15.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> quee
-[14Jul2025 03:41:02.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> Me rindo
-[14Jul2025 03:41:05.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-[14Jul2025 03:41:18.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> No me gusto Gojo
-[14Jul2025 03:41:23.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> No pega
-[14Jul2025 03:41:27.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ako_lol> qwq
-[14Jul2025 03:41:53.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> YO NO SE VOLAR
-[14Jul2025 03:41:54.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebi_cum> :c
-[14Jul2025 03:42:08.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sebi_cum: Teleported Sebi_cum to Ako_lol]
-[14Jul2025 03:42:14.198] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ako_lol lost connection: Disconnected
-[14Jul2025 03:42:14.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ako_lol left the game
-[14Jul2025 03:43:17.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[14Jul2025 03:43:17.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[14Jul2025 03:43:17.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[14Jul2025 03:43:17.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[14Jul2025 03:43:17.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14Jul2025 03:43:17.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[14Jul2025 03:43:17.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[14Jul2025 03:43:17.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/jujutsucraft:cursed_spirit_manipulation_dimension
-[14Jul2025 03:43:18.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14Jul2025 03:43:18.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14Jul2025 03:43:18.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14Jul2025 03:43:18.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (cursed_spirit_manipulation_dimension): All chunks are saved
-[14Jul2025 03:43:18.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[14Jul2025 03:43:18.880] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[15Jul2025 21:37:56.687] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[15Jul2025 21:37:56.692] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[15Jul2025 21:37:57.046] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[15Jul2025 21:37:57.108] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MacondoReturns/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[15Jul2025 21:37:57.326] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MacondoReturns/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[15Jul2025 21:37:57.329] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MacondoReturns/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[15Jul2025 21:37:57.331] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MacondoReturns/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[15Jul2025 21:37:57.333] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MacondoReturns/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[15Jul2025 21:37:57.473] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 1 dependencies adding them to mods collection
+[15Jul2025 21:37:59.253] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[15Jul2025 21:37:59.274] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[15Jul2025 21:38:07.306] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[15Jul2025 21:38:07.311] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[15Jul2025 21:38:08.930] [main/INFO] [journeymap/]: Initializing Packet Registries
+[15Jul2025 21:38:09.521] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[15Jul2025 21:38:09.777] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: AHEAD Current: 9.0.3 Target: null
+[15Jul2025 21:38:09.778] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[15Jul2025 21:38:09.989] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[15Jul2025 21:38:09.989] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[15Jul2025 21:38:10.108] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[15Jul2025 21:38:10.423] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15Jul2025 21:38:11.184] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MacondoReturns/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23115!/assets/.mcassetsroot' uses unexpected schema
+[15Jul2025 21:38:11.184] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MacondoReturns/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23115!/data/.mcassetsroot' uses unexpected schema
+[15Jul2025 21:38:13.090] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[15Jul2025 21:38:13.199] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1634 advancements
+[15Jul2025 21:38:13.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[15Jul2025 21:38:13.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[15Jul2025 21:38:13.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[15Jul2025 21:38:13.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[15Jul2025 21:38:13.872] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[15Jul2025 21:38:13.905] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[15Jul2025 21:38:13.991] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15Jul2025 21:38:13.992] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[15Jul2025 21:38:13.992] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15Jul2025 21:38:13.992] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[15Jul2025 21:38:14.010] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[15Jul2025 21:38:14.011] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[15Jul2025 21:38:14.012] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[15Jul2025 21:38:14.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[15Jul2025 21:38:17.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[15Jul2025 21:38:20.174] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jul2025 21:38:20.190] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jul2025 21:38:20.195] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jul2025 21:38:20.200] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jul2025 21:38:20.228] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jul2025 21:38:20.234] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jul2025 21:38:20.235] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jul2025 21:38:20.726] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jul2025 21:38:21.220] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[15Jul2025 21:38:21.719] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[15Jul2025 21:38:22.219] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 72%
+[15Jul2025 21:38:22.366] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5148 ms
+[15Jul2025 21:38:22.367] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.359s)! For help, type "help"
+[15Jul2025 21:38:22.394] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[15Jul2025 21:39:38.514] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebi_cum[/127.106.69.226:54701] logged in with entity id 426 at (592.5087664653921, 63.0, 55.97650839121462)
+[15Jul2025 21:39:38.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum joined the game
+[15Jul2025 21:43:24.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebi_cum lost connection: Disconnected
+[15Jul2025 21:43:24.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum left the game
+[15Jul2025 21:45:33.299] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebi_cum[/127.106.69.226:36275] logged in with entity id 3569 at (595.0133473992518, 64.0, -9.101916321934596)
+[15Jul2025 21:45:33.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum joined the game
+[15Jul2025 21:46:09.388] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sebi_cum lost connection: Disconnected
+[15Jul2025 21:46:09.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum left the game
+[15Jul2025 21:46:32.845] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sebi_cum[/127.106.69.226:59253] logged in with entity id 4412 at (595.0133473992518, 64.0, -9.101916321934596)
+[15Jul2025 21:46:32.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebi_cum joined the game
